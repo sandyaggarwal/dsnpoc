@@ -1,0 +1,4 @@
+root: ./help
+structure:
+  readme: Introduction.md
+  summary: Summary.md
