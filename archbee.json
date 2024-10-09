@@ -1,0 +1,7 @@
+{
+    "docsPath": "help/",
+    "structure": {
+      "summary": "summary.md",
+      "assets": "assets"
+    }
+  }
