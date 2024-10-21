@@ -1,6 +1,6 @@
 # Contact us
 
-Sample- For troubleshooting, feedback, bug reports, feature requests feel free to ping us via:
+For troubleshooting, feedback, bug reports, feature requests feel free to ping us via:
 
 ### Email
 
